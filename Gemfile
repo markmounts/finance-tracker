@@ -6,6 +6,10 @@ ruby '2.2.4'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5.1'
 
+gem 'devise', '~> 3.5', '>= 3.5.6'
+gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
+gem 'devise-bootstrap-views', '~> 0.0.8'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
